@@ -1,0 +1,29 @@
+.top-section {
+    display: flex;
+}
+
+.top-section-left{
+    width: 50%;
+}
+
+.top-section-left img{
+    width: 50%;
+    float: right;
+    margin-right: 2%;
+}
+
+.top-section-right{
+    width: 50%;
+    margin-left: 2%;
+}
+.right-section-part-one{
+    margin-right: 200px;
+}
+.price{
+    display: flex;
+    margin-top: 50px;
+}
+.price-part-two{
+    margin-left: 50px;
+
+}
